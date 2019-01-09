@@ -1,4 +1,4 @@
-# Serial-Comm-_Arduino_Python
+# SerialComm_Arduino_Python
 Start your basics with serial communication which help you to read the data from any kind of sensor connected to arduino using UART, I2C, SPI or any kind of protocol
 
 In this Repository you will understand about how can you write your own code and run it on Desktop without of using specialized IDE.
